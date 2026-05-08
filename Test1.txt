@@ -1,0 +1,1 @@
+This is a 2nd text file for testing the git add and git commit status in the vs studio.
